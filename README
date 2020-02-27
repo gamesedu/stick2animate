@@ -1,3 +1,9 @@
+# Notes:
+- parameter fps inside index.html defines speed of animation. Original was 15 . Now it is changed to 5
+
+# Changes:
+
+# Original info :
    ;o.    o     o     (o)    o      o    , o
     |'   `|,  `-(-'    (    '|-'   (|,    >(
    < \   < \   < \    < \   ' >    < \    / >
